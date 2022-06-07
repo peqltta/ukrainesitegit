@@ -372,7 +372,12 @@ section.success a.active {
     section {
         padding: 75px 0;
     }
-
+    ul#scene {
+        display: none;
+    }
+    .heroVideoContainer {
+        display: none;
+    }    
     section.first {
         padding-top: 75px;
     }
