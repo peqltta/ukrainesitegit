@@ -8,6 +8,7 @@
 }
 video.heroVideo {
     width: 100%;
+    overflow: hidden;
 }
 .navbar-default .navbar-nav>li>a {
     color: #000;
